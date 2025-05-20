@@ -1,0 +1,20 @@
+{
+    "type": "checkout.session.completed",
+    "data": {
+      "object": {
+        "id": "cs_test_xyz",
+        "metadata": {
+          "userEmail": "fatterfily@gmail.com"
+        },
+        "line_items": {
+          "data": [
+            {
+              "price": {
+                "id": "price_1ROw5hFqFoxDsq2r8r8t5bjf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
